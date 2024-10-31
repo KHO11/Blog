@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\Blogs\\Blog Content\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{128E5BD8-BD5D-4B3B-9E12-4A56C718BE54}|Blog Content\\Blog Content.csproj|c:\\users\\kevin.hyde-opoku\\documents\\blogs\\blog content\\blog content\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{128E5BD8-BD5D-4B3B-9E12-4A56C718BE54}|Blog Content\\Blog Content.csproj|solutionrelative:blog content\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128E5BD8-BD5D-4B3B-9E12-4A56C718BE54}|Blog Content\\Blog Content.csproj|c:\\users\\kevin.hyde-opoku\\documents\\blogs\\blog content\\blog content\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128E5BD8-BD5D-4B3B-9E12-4A56C718BE54}|Blog Content\\Blog Content.csproj|solutionrelative:blog content\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128E5BD8-BD5D-4B3B-9E12-4A56C718BE54}|Blog Content\\Blog Content.csproj|c:\\users\\kevin.hyde-opoku\\documents\\blogs\\blog content\\blog content\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128E5BD8-BD5D-4B3B-9E12-4A56C718BE54}|Blog Content\\Blog Content.csproj|solutionrelative:blog content\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128E5BD8-BD5D-4B3B-9E12-4A56C718BE54}|Blog Content\\Blog Content.csproj|c:\\users\\kevin.hyde-opoku\\documents\\blogs\\blog content\\blog content\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{128E5BD8-BD5D-4B3B-9E12-4A56C718BE54}|Blog Content\\Blog Content.csproj|solutionrelative:blog content\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\Blogs\\Blog Content\\Blog Content\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Blog Content\\Views\\Posts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\Blogs\\Blog Content\\Blog Content\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "Blog Content\\Views\\Posts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T10:49:37.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\Blogs\\Blog Content\\Blog Content\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Blog Content\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\Blogs\\Blog Content\\Blog Content\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Blog Content\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:13:23.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\Blogs\\Blog Content\\Blog Content\\Program.cs",
+              "RelativeDocumentMoniker": "Blog Content\\Program.cs",
+              "ToolTip": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\Blogs\\Blog Content\\Blog Content\\Program.cs",
+              "RelativeToolTip": "Blog Content\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:49:04.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\Blogs\\Blog Content\\Blog Content\\appsettings.json",
+              "RelativeDocumentMoniker": "Blog Content\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\Blogs\\Blog Content\\Blog Content\\appsettings.json",
+              "RelativeToolTip": "Blog Content\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T09:46:25.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

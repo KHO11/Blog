@@ -1,0 +1,14 @@
+﻿@model IEnumerable<BlogProject.Models.Post>
+<h2>Blog Posts</h2>
+<a asp-action="Create">Create New Post</a>
+<ul>
+    @foreach (var post in Model)
+    {
+        <li>
+            <a asp-action="Details" asp-route-id="@post.Id">@post.Title</a>
+            - @post.DatePosted.ToShortDateString()
+            <a asp-action="Edit" asp-route-id="@post.Id">Edit</a> |
+            <a asp-action="Delete" asp-route-id="@post.Id">Delete</a>
+        </li>
+    }
+</ul>
